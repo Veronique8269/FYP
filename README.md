@@ -1,16 +1,12 @@
-
 # Flowers
-## Page-1: Input words
-### Compnents
-- NextPage
-- Input
-- FlowerBackground(absolute, z-index = 1)
-### data
-- words
 
-## Page-2: Generate random flowers
-### Components
+## Mobile
 
+### Page-1: Input words
+### Page-2: Generate random flowers
 
+### Page-3:  Hong Kong Map
 
-##
+## Browser
+
+### Hong Kong Map
